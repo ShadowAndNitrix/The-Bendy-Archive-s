@@ -84,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Games Made By Me or I Co-Own
+    subtitle: Games Made By Me or I Co-Own or I'm A Admin In
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
