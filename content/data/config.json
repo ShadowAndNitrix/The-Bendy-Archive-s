@@ -22,15 +22,15 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
+                "altText": "Bendys YouTube",
                 "label": "YouTube",
                 "url": "https://twitter.com/netlify",
                 "icon": "youtube"
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
+                "altText": "Bendys Twitch",
+                "label": "Twitch",
                 "url": "https://github.com/netlify-templates",
                 "icon": "github"
             }
