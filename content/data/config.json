@@ -30,7 +30,7 @@
             {
                 "type": "Social",
                 "altText": "Bendys Twitch",
-                "label": "",
+                "label": "Twitch",
                 "url": "https://github.com/netlify-templates",
                 "icon": "github"
             }
