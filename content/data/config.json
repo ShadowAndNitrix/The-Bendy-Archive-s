@@ -30,7 +30,7 @@
             {
                 "type": "Social",
                 "altText": "Ronald",
-                "label": "Follow",
+                "label": "",
                 "url": "https://github.com/netlify-templates",
                 "icon": "github"
             }
