@@ -55,7 +55,8 @@
                 "label": "Contact",
                 "url": "bendyman86yt@hotmail.com",
                 "altText": "",
-                "showIcon": false
+                "showIcon": false,
+                "icon": "mail"
             },
             {
                 "type": "Link",
