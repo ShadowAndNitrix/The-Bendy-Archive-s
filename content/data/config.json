@@ -32,7 +32,7 @@
                 "altText": "Bendys Twitch",
                 "label": "Twitch",
                 "url": "https://github.com/netlify-templates",
-                "icon": "twitter"
+                "icon": "github"
             }
         ],
         "styles": {
