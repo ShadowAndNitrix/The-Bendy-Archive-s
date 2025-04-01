@@ -55,15 +55,6 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "",
-                "altText": "",
-                "showIcon": true,
-                "icon": "mail",
-                "iconPosition": "right"
-            },
-            {
-                "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
                 "altText": "",
