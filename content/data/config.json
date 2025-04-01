@@ -50,7 +50,7 @@
                 "url": "/info",
                 "altText": "",
                 "showIcon": true,
-                "icon": "cart",
+                "icon": "chevronRight",
                 "iconPosition": "right"
             },
             {
