@@ -65,7 +65,8 @@
                 "url": "https://github.com/netlify-templates",
                 "altText": "",
                 "showIcon": true,
-                "icon": "github"
+                "icon": "github",
+                "iconPosition": "right"
             }
         ],
         "contacts": {
