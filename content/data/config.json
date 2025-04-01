@@ -50,7 +50,7 @@
                 "url": "/info",
                 "altText": "",
                 "showIcon": true,
-                "icon": "play",
+                "icon": "chevronRight",
                 "iconPosition": "right"
             },
             {
