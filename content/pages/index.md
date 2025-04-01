@@ -14,12 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a developer, Game MAKER, league of knights Founder/owner, and the
+      Prime knights Founder/owner
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is my info—I’m sharing it all this with ya’ll so you can see all the
+      hard work I’ve done in the past few years. Once you’re impressed, you can
+      continue to scroll down to see more details and credentials about me.
     styles:
       self:
         height: auto
@@ -47,14 +47,14 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - colors: colors-f
+  - colors: colors-a
     type: FeaturedProjectsSection
     elementId: ''
     actions:
       - type: Link
         label: See all projects
         url: /projects
-    showDate: false
+    showDate: true
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
@@ -84,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Games Made By Me or I Co-Own or I'm A Admin In
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f

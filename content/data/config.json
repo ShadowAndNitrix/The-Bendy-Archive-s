@@ -4,8 +4,8 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "Personal",
+        "isSticky": true,
+        "title": "Bendy Archive (Main Page)",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -48,25 +48,28 @@
                 "type": "Link",
                 "label": "Info",
                 "url": "/info",
-                "altText": ""
+                "altText": "",
+                "showIcon": false,
+                "icon": "chevronRight",
+                "iconPosition": "right"
             },
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
+                "url": "bendyman86yt@hotmail.com",
+                "altText": "",
+                "showIcon": true,
+                "icon": "mail",
+                "iconPosition": "right"
             },
             {
                 "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "altText": "",
+                "showIcon": true,
+                "icon": "github",
+                "iconPosition": "right"
             }
         ],
         "contacts": {
